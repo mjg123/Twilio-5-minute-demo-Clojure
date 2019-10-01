@@ -9,7 +9,6 @@ Java code for a 5 minute demo of Twilio using Java. There is a class for respond
   - open `M-x term` for ngrok (beware copy&paste out of this needs to use mouse)
   - Open `handler.clj` and the `calls.clj`
   - In `calls.clj`, `M-x cider-jack-in`
-  - Fold up the `backupCode` methods in the IDE
 
 ## Part 1
 
